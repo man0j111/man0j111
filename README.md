@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hey 👋, I'm Manoj!
 
-<!--
-**man0j111/man0j111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I’m an enthusiastic sophomore in Computer Science 💻 with a passion for Graphic Designing , UI/UX 🎨 , Full Stack Development 🌐 , and AI/ML 🛠️. I have hands-on experience working on real-life projects🤖in these fields and I am eager to further explore and excel in each of them. 
+<br/>
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🧐 More About Me:
+
+- 🔭 &nbsp; I'm currentl pursuing my Undergraduate 
+- 🌱 &nbsp; I’m currently learning AI/ML; 
+- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/manoj-s-v-279837221/)
+
+
