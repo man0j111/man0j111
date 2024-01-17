@@ -8,9 +8,9 @@ I’m an enthusiastic sophomore in Computer Science 💻 with a passion for Grap
 
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I'm currentl pursuing my Undergraduate 
+- 🔭 &nbsp; I'm currently pursuing my Undergraduate 
 - 🌱 &nbsp; I’m currently learning AI/ML; 
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
+- 💬 &nbsp; Ask me about anything tech-related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/manoj-s-v-279837221/)
 
 
