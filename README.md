@@ -14,3 +14,6 @@ I’m an enthusiastic sophomore in Computer Science 💻 with a passion for Grap
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/manoj-s-v-279837221/)
 
 
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=man0j111&label=Profile%20Views&color=0&icon=0&pretty=false" />
+</a>
